@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: pyapp
-          image: ederoz/test:v1
+          image: eoza/test:ab4ca9f
           ports:
             - containerPort: 8000
